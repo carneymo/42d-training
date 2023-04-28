@@ -2,5 +2,5 @@
 
 ## Regular Expressions
 
-[Regular Expressions Training](regular-expressions/readme.md)
+[Regular Expressions Training](regular-expressions/)
 
