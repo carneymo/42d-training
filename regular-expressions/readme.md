@@ -15,7 +15,7 @@ Regular expressions are extremely powerful and can be used to do a lot of things
 This repository is a collection of regular expressions that I have found useful. I have also included some examples of how to use them.
 
 ### 1. Learning Regex
-Start with [learning-regex](learning-regex.md). Included are some resources that will help you learn regular expressions.
+Start with [learning-regex](learn-regex.md). Included are some resources that will help you learn regular expressions.
 
 ### 2. Exercises
 Next, apply some of this knowledge with some regular expression [exercises](exercises.md).
