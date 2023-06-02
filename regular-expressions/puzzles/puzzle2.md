@@ -18,16 +18,24 @@ Detective John receives yet another letter from the anonymous source:
 
     Here's the list of potential cafés:
 
-        Carols
-        Cedars
-        Chucks
-        Coffee
-        Crumbs
-        Ciders
-        Cosmos
-        Capers
-        Corals
-        Cobras
+    - Bonjour Bistro
+    - Cristo Coffee House
+    - Caviar Lounge
+    - Carters Pub
+    - Atlantic Eats Restaurant
+    - Citrus Coffee House
+    - Café Le Carols
+    - Poppy Fields Diner
+    - Charms Kitchen
+    - Corners Pub
+    - The Brewers Eatery
+    - Café D'Cribs
+    - Carrera Bakery
+    - Cask Bar
+    - Crusts Bistro
+    - Champs Eatery
+    - Ceilidh Corner
+    - Chocolat Restaurant
 
     Please use your knowledge of regular expressions to find the correct café.
 
