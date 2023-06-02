@@ -10,11 +10,9 @@ Detective John receives yet another letter from the anonymous source:
     of potential cafés where the meeting could take place, but I need your help to 
     identify the correct one.
 
-    The secret code they use has the following rules:
-    1. The café's name starts with the letter 'C'
-    2. The café's name ends with the letter 's'
-    3. The café's name has exactly 6 letters
-    4. The café's name contains the letter 'r' as the third character
+    "Start with the third letter and ends in the 19th letter
+    but naught only 6 letters in length it has
+    with the 18th letter between them."
 
     Here's the list of potential cafés:
 
