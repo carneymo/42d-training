@@ -11,8 +11,8 @@ Detective John receives yet another letter from the anonymous source:
     identify the correct one.
 
     "Start with the third letter and ends in the 19th letter
-    but naught only 6 letters in length it has
-    with the 18th letter between them."
+    but only 6 letters in length it has
+    with the 18th letter in the third position."
 
     Here's the list of potential cafés:
 
