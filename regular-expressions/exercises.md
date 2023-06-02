@@ -65,13 +65,13 @@ Write a regular expression that matches the following:
     <summary><strong>Exercise 3 Answers</strong></summary>
 
    1. Any word that is 5 characters long
-   > `^.{5}$`
+   > `\b^.{5}\b`
    2. Any word that is between 3 and 5 characters long
-   > `^.{3,5}$`
+   > `\b.{3,5}\b`
    3. Any word that has a letter in it
-   > `^[a-zA-Z]+$`
-   4. A hexadecimal digit
-   > `^[0-9a-fA-F]+$`
+   > `\b\w*[a-zA-Z]\w*\b`
+   4. Any hexadecimal digit
+   > `\b[0-9a-fA-F]+\b`
 
 </details>
 
